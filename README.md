@@ -1,2 +1,2 @@
-# websites-blocker-script
+# websites-blocker
  Simple script to block access to websites
